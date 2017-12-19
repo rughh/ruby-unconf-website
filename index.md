@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+---
+layout: 'default'
+title: 'Hello'
+---
+## Let's meet and talk about Ruby
 
-You can use the [editor on GitHub](https://github.com/rughh/ruby-unconf-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ruby Unconf Hamburg 2018 will probably happen around May 2018. We're currently trying to secure a venue and fix a date.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Code Of Conduct
 
-### Markdown
+The heart of the Ruby Unconference is people. [This guideline](https://berlincodeofconduct.org/) is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rughh/ruby-unconf-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
