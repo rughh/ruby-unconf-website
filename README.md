@@ -11,4 +11,4 @@
 - Only use things that work on github's jekyll setup as we currently host this page through GH pages.
 - If you're not part of the core team (@p0wl, @halfbyte), use PRs for committing changes, please.
 (Except for when it's really, really urgent, of course)
-- If it works, it works.
+- If it works, it works. It's just a conference website.

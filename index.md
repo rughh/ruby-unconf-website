@@ -12,3 +12,7 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
+## Contact
+
+Please contact our team at <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a> if you have
+any questions, remarks or ideas.
