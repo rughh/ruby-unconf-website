@@ -1,3 +1,16 @@
 body {
   background: #DBD4C4;
 }
+.page-header {
+  background-color: $header-bg-color;
+  background: $header-bg-color url(/assets/images/stupid_header.jpeg) top center no-repeat;
+  background-size: cover;
+}
+
+.project-logo {
+  width: 200px; vertical-align: middle; margin-left: -60px;
+}
+
+.project-tagline {
+  opacity: 1;
+}
