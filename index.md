@@ -4,7 +4,7 @@ title: 'Hello'
 ---
 ## Let's meet and talk about Ruby
 
-Ruby Unconf Hamburg 2018 will probably happen around May 2018. We're currently trying to secure a venue and fix a date.
+Ruby Unconf Hamburg 2018 will probably happen on 5th and 6th of May 2018. We're currently trying to secure a venue.
 
 ## Code Of Conduct
 

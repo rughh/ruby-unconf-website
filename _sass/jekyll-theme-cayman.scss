@@ -87,6 +87,9 @@ a {
 }
 
 .page-header {
+  display: flex;
+  justify-content: center;
+
   color: $header-heading-color;
 
   text-align: center;
@@ -106,39 +109,58 @@ a {
   }
 }
 
-.project-name {
-  color: $section-headings-color;
-  font-family: "ocr-b-std";
-  letter-spacing: -0.1em;
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-  border: 3px solid $section-headings-color;
+.header-item {
+  box-shadow: 0 0 0 4px $main-orange;
+  padding: 0;
+  margin: 0;
+}
 
-  @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
-    font-size: 2.25rem;
-  }
+.header-box {
+  display: grid;
+  width: 550px;
+  grid-gap: 4px;
+  grid-template-columns: 200px 1fr;
+  grid-template-rows: 200px 75px;
 
   @include small {
-    font-size: 1.75rem;
+    width: 300px;
+    grid-template-columns: 100px 1fr;
+    grid-template-rows: 100px 75px;
+  }
+}
+
+.project-name {
+  color: $section-headings-color;
+  font-family: "Open Sans";
+  font-weight: 800;
+  letter-spacing: -0.11em;
+  text-transform: uppercase;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include small {
+    font-size: 1.8em;
+  }
+}
+
+.project-logo {
+  width: 200px;
+
+  @include small {
+    width: 100px;
   }
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  color: $main-orange;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-weight: normal;
-  opacity: 0.7;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
 
   @include small {
     font-size: 1rem;
@@ -182,7 +204,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    font-family: "ocr-b-std";
+    font-family: "Roboto Mono";
     color: $section-headings-color;
   }
 
