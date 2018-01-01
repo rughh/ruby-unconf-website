@@ -8,6 +8,9 @@ title: 'Hello'
 
 Ruby Unconf Hamburg 2018 will probably happen on 5th and 6th of May 2018. We're currently trying to secure a venue.
 
+You decide on the topics, talks and speakers. This is your conference. <br />
+Give a talk, get inspired, code together, talk to people.
+
 </div>
 <div class="content-section" markdown="1">
 
