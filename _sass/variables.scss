@@ -1,16 +1,22 @@
+// Colors
+$main-orange: #EA605F;
+$main-purple: #67519D;
+$main-beige: #D8CFBD;
+
+
 // Breakpoints
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #BAAC8D !default;
+$header-bg-color: $main-beige !default;
 $header-bg-color-secondary: #155799 !default;
 
 // Text
-$section-headings-color: #C74948 !default;
+$section-headings-color: $main-purple !default;
 $body-text-color: #606c71 !default;
-$body-link-color: #674F9F !default;
+$body-link-color: $main-purple !default;
 $blockquote-text-color: #819198 !default;
 
 // Code

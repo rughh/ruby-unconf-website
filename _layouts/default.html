@@ -8,20 +8,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#C74948">
     <link rel="stylesheet" href="https://use.typekit.net/vle4nag.css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Mono' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <section class="page-header">
-
-      <h1 class="project-name"><img class="project-logo" src="/assets/images/UNCONF.svg" aria-hidden="true">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <div class="header-box">
+        <img src="/assets/images/header.svg" aria-hidden="true">
+      </div>
     </section>
 
     <section class="main-content">
       {{ content }}
 
-      <footer class="site-footer">
+      <footer class="content-section site-footer">
         Organized by <a href="https://www.bootev.org/">BOOT e.V.</a>
         <p>(Header image by <a href="https://www.flickr.com/photos/87296837@N00/15289218984">Tony Webster</a>)</p>
       </footer>
