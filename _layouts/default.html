@@ -14,7 +14,7 @@
   <body>
     <section class="page-header">
       <div class="header-box">
-        <img src="/assets/images/header.svg" aria-hidden="true">
+        <a href="{{ site.baseurl }}/"><img src="/assets/images/header.svg" aria-hidden="true"></a>
       </div>
     </section>
 
@@ -22,7 +22,7 @@
       {{ content }}
 
       <footer class="content-section site-footer">
-        Organized by <a href="https://www.bootev.org/">BOOT e.V.</a>
+        <p>Organized by <a href="https://www.bootev.org/">BOOT e.V.</a> (<a href="{{ site.baseurl }}{% link imprint.md %}">Imprint / Impressum</a>)</p>
         <p>Header image by <a href="https://www.flickr.com/photos/basq/8602547855/in/album-72157604005131955/">Jens Mayer</a> used under CC BY / Modified / Thanks!</p>
       </footer>
     </section>

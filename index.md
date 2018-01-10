@@ -12,6 +12,7 @@ You decide on the topics, talks and speakers. This is your conference. <br />
 Give a talk, get inspired, code together, talk to people.
 
 </div>
+
 <div class="content-section" markdown="1">
 
 ## Tickets
@@ -19,6 +20,7 @@ Give a talk, get inspired, code together, talk to people.
 Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified.
 
 </div>
+
 <div class="content-section" markdown="1">
 
 ## Code Of Conduct
@@ -28,6 +30,23 @@ The heart of the Ruby Unconference is people. [This guideline](https://berlincod
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
 </div>
+<div class="content-section" markdown="1">
+
+## Unconf you say?
+
+What exactly is an Unconference? It works like this: Everybody can propose a talk. Everybody votes for the talks they want to see. The most voted talks will be held. You decide what will happen!
+
+Do you want to propose a talk? Or are interested in a topic you want to hear about? Our App for collecting these ideas will be up soon. Follow <a href="https://twitter.com/RubyUnConfHH">@RubyUnConfHH</a>on Twitter to be notified.
+</div>
+
+<div class="content-section" markdown="1">
+## Hamburg
+
+If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here.
+
+Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
+</div>
+
 <div class="content-section" markdown="1">
 
 ## Contact
