@@ -16,7 +16,7 @@ Give a talk, get inspired, code together, talk to people.
 
 ## Tickets
 
-Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnConfHH/">RubyUnConfHH</a> on twitter to get notified.
+Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified.
 
 </div>
 <div class="content-section" markdown="1">
