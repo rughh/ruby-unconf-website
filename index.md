@@ -2,7 +2,7 @@
 layout: 'default'
 title: 'Hello'
 ---
-<div class="content-section white-bg" markdown="1">
+<div class="content-section content-section--whitebg" markdown="1">
 
 ## Let's meet and talk about Ruby
 
@@ -13,9 +13,39 @@ Give a talk, get inspired, code together, talk to people.
 
 </div>
 
-<div class="content-section" markdown="1">
+<div class="content-section content-section--purplebg" markdown="1">
 
 ## Tickets
+
+### with all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
+
+<div class="tickets">
+<div class="tickets__list">
+<a class="ticket">
+  <div class="ticket__name">early bird</div>
+  <div class="ticket__description">limited</div>
+  <div class="ticket__price">45,00€</div>
+</a>
+
+<a class="ticket">
+<div class="ticket__name">regular</div>
+  <div class="ticket__description"></div>
+<div class="ticket__price">65,00€</div>
+</a>
+
+<a class="ticket">
+<div class="ticket__name">regular<br /></div>
+<div class="ticket__description">50% diversity support</div>
+<div class="ticket__price">95,50€</div>
+</a>
+
+<a class="ticket">
+<div class="ticket__name">regular</div>
+<div class="ticket__description">100% diversity support</div>
+<div class="ticket__price">130,00€</div>
+</a>
+</div>
+</div>
 
 Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified.
 

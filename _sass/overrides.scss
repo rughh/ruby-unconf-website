@@ -10,3 +10,75 @@ body {
 .project-tagline {
   opacity: 1;
 }
+
+.tickets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.tickets__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  @include large {
+    justify-content: space-between;
+  }
+
+  @include medium {
+    justify-content: center;
+  }
+
+  @include small {
+    justify-content: center;
+  }
+}
+
+.content-section .ticket:first-child { /* reset layout default */
+  margin-top: 8px;
+}
+
+.ticket {
+  width: 208px;
+  height: 192px;
+  border: 8px solid white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Roboto Mono";
+  font-size: 1em;
+  margin: 8px;
+}
+
+a.ticket {
+  color: white;
+}
+
+a.ticket:hover {
+  text-decoration: none;
+  background: white;
+  box-shadow: 0px 0px 0px 8px $main-orange;
+  cursor: pointer;
+  color: $main-purple;
+}
+
+.ticket__name {
+  padding: 16px 8px 0px 8px;
+}
+
+.ticket__description {
+  text-align: center;
+  font-size: 1em;
+  font-weight: 500
+}
+
+.ticket__price {
+  padding: 0 8px 16px 8px;
+}
