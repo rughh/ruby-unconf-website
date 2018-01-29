@@ -36,7 +36,7 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
 What exactly is an Unconference? It works like this: Everybody can propose a talk. Everybody votes for the talks they want to see. The most voted talks will be held. You decide what will happen!
 
-Do you want to propose a talk? Or are interested in a topic you want to hear about? Our App for collecting these ideas will be up soon. Follow <a href="https://twitter.com/RubyUnConfHH">@RubyUnConfHH</a>on Twitter to be notified.
+Do you want to propose a talk? Or are interested in a topic you want to hear about? Our App for collecting these ideas will be up soon. Follow <a href="https://twitter.com/RubyUnConfEU">@RubyUnConfEU</a>on Twitter to be notified.
 </div>
 
 <div class="content-section" markdown="1">
