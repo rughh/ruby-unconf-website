@@ -81,3 +81,23 @@ a.ticket:hover {
 .ticket__price {
   padding: 0 8px 16px 8px;
 }
+
+.sponsor__list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.sponsor__logo {
+  width: 264px;
+  margin: 8px;
+}
+
+.sponsor__text {
+  font-family: "Roboto Mono", sans-serif;
+  margin: 8px;
+}
+
+.sponsor__logo img {
+  max-width: 264px;
+}

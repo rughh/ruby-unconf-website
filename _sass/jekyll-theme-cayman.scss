@@ -128,7 +128,7 @@ a {
   word-wrap: break-word;
   width: 100%;
 
-  :first-child {
+  > :first-child {
     margin-top: 0;
   }
 
