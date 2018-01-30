@@ -21,25 +21,25 @@ Give a talk, get inspired, code together, talk to people.
 
 <div class="tickets">
 <div class="tickets__list">
-<a class="ticket">
+<a class="ticket" href="https://ti.to/ruby-unconf/2018">
   <div class="ticket__name">early bird</div>
   <div class="ticket__description">limited</div>
   <div class="ticket__price">45,00€</div>
 </a>
 
-<a class="ticket">
+<a class="ticket" href="https://ti.to/ruby-unconf/2018">
 <div class="ticket__name">regular</div>
   <div class="ticket__description"></div>
 <div class="ticket__price">65,00€</div>
 </a>
 
-<a class="ticket">
+<a class="ticket" href="https://ti.to/ruby-unconf/2018">
 <div class="ticket__name">regular<br /></div>
 <div class="ticket__description">50% diversity support</div>
 <div class="ticket__price">95,50€</div>
 </a>
 
-<a class="ticket">
+<a class="ticket" href="https://ti.to/ruby-unconf/2018">
 <div class="ticket__name">regular</div>
 <div class="ticket__description">100% diversity support</div>
 <div class="ticket__price">130,00€</div>
