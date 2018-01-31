@@ -3,21 +3,11 @@ layout: 'default'
 title: Sightseeing
 ---
 
-<div class="content-section white-bg" markdown="1">
+<div class="content-section content-section--whitebg" markdown="1">
 
 ## Sightseeing in Hamburg
 
-First time visiting Hamburg? Having some days left before or after JSUnconf?
-
-</div>
-
-<div class="content-section" markdown="1">
-
-## Public transportation
-
-The public transportation in Hamburg is done by the HVV. The important thing to know is that you need to buy a ticket before you go on the platform and you don’t need to clock in the tickets, they are valid after you bought them. Don’t go behind the golden lines in the ground without a ticket! For busses you can buy your ticket at the driver.
-
-A 9-Uhr-Tageskarte - a ticket that is valid the whole day on weekends and in large parts of Hamburg - is the best option most of the time, even if you just take 2 rides. It costs around 6€.
+First time visiting Hamburg? Having some days left before or after Ruby Unconf?
 
 </div>
 
@@ -34,5 +24,15 @@ The Speicherstadt is the old warehouse district of Hamburg. Even today the old w
 Planten un Bloomen in the center of Hamburg near the subway station Dammtor is a nice park for having a rest in the sun. In the park there is also the tropical house of the University Hamburg. The entrance is free.
 
 From the top of St. Michael’s Church aka Michel you can see all parts of Hamburg. It costs some money to get up to the tower and currently the lift is not working so you have to take the stairs, but the sight is awesome. An insider tip is to visit the Sankt Petri Church opposite of the town hall. It is not so crowded and it is higher than the Michel.
+
+</div>
+
+<div class="content-section" markdown="1">
+
+## Public transportation
+
+The public transportation in Hamburg is done by the HVV. The important thing to know is that you need to buy a ticket before you go on the platform and you don’t need to clock in the tickets, they are valid after you bought them. Don’t go behind the golden lines in the ground without a ticket! For busses you can buy your ticket at the driver.
+
+A 9-Uhr-Tageskarte - a ticket that is valid the whole day on weekends and in large parts of Hamburg - is the best option most of the time, even if you just take 2 rides. It costs around 6€.
 
 </div>

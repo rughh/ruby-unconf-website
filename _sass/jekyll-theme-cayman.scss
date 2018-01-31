@@ -124,15 +124,11 @@ a {
   }
 }
 
-.content-section.white-bg {
-  background: white;
-}
-
 .content-section {
   word-wrap: break-word;
   width: 100%;
 
-  :first-child {
+  > :first-child {
     margin-top: 0;
   }
 
@@ -312,6 +308,27 @@ a {
     margin: 1rem 0;
     background-color: $hr-border-color;
     border: 0;
+  }
+}
+
+.content-section--whitebg {
+  background: white;
+}
+
+.content-section--purplebg {
+  background: $main-purple;
+  color: white;
+
+  h2 {
+    color: $main-orange;
+  }
+
+  h3, h4, h5, h6 {
+    color: white;
+  }
+
+  a {
+    color: $main-orange;
   }
 }
 
