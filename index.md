@@ -53,11 +53,10 @@ Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnconfEU">
 
 
 <div class="content-section content-section--whitebg" markdown="1">
-<div class="sponsor__list">
+<p class="sponsor__list">
   <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
   <div class="sponsor__text">Platinum Sponsor</div>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
-</div>
+</p>
 
 </div>
 
