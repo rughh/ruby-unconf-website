@@ -81,10 +81,13 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
 
 <div class="content-section content-section--whitebg" markdown="1">
 <div class="sponsor__list">
-  <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank"><img src="assets/images/sponsors/ubilabs.svg"></a>
-  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank"><img src="assets/images/sponsors/akra.svg"></a>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+  <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
+  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.svg"></a>
+  <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+  <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+
 </div>
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
 
 <div class="content-section" markdown="1">
