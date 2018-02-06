@@ -7,17 +7,24 @@ body {
   background-size: cover;
 }
 
+.content-section {
+  h1, h2, h3, p, ul {
+    max-width: $content-max-width;
+    margin-left: auto; margin-right: auto;
+  }
+}
+
 .project-tagline {
   opacity: 1;
 }
 
 .tickets {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   width: 100%;
-  margin-left: -8px;
-  margin-right: -8px;
+  max-width: $content-max-width;
+  margin: 0 auto;
 }
 
 .tickets__list {
@@ -84,19 +91,21 @@ a.ticket:hover {
 
 .sponsor__list {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
 }
 
 .sponsor__logo {
-  width: 264px;
+  flex-grow: 1;
+  text-align: center;
   margin: 8px;
 }
 
 .sponsor__text {
   font-family: "Roboto Mono", sans-serif;
   margin: 8px;
+  text-align: center;
 }
 
 .sponsor__logo img {
