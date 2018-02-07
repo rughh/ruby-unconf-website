@@ -79,13 +79,13 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
-<div class="sponsor__list">
-  <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
-  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.svg"></a>
-  <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
-  <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+    <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
+    <a class="sponsor__logo" href="http://www.epages.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/epages-logo.svg" style="height:55px;"></a>
+  </div>
+  <div class="sponsor__text">Gold Sponsors </div>
 
-</div>
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
 
@@ -97,6 +97,17 @@ If you are the first time in Hamburg we have some tipps for getting around here 
 Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
 </div>
 
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+    <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
+    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.svg"></a>
+  </div>
+  <div class="sponsor__text">Silver Sponsors </div>
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+</div>
+
+
 <div class="content-section" markdown="1">
 
 ## Contact
@@ -104,4 +115,12 @@ Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{s
 Please contact our team at <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a> if you have
 any questions, remarks or ideas.
 
+</div>
+
+<div class="content-section content-section--whitebg" markdown="1">
+  <div class="sponsor__list">
+  <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
+  </div>
+  <div class="sponsor__text">Bronze Sponsors </div>
+  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
