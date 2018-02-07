@@ -111,3 +111,10 @@ a.ticket:hover {
 .sponsor__logo img {
   max-width: 264px;
 }
+
+.btn-primary {
+  background-color: #EA605F;
+  &:hover {
+    background-color: darken(#EA605F, 10%);
+  }
+}
