@@ -104,6 +104,7 @@ Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{s
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
     <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.svg"></a>
+    <a class="sponsor__logo" href="https://www.railslove.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/railslove.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
