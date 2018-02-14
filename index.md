@@ -47,10 +47,22 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 </div>
 
-Tickets will be on sale soon. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified.
+Early bird tickets and diversity support tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases.
 
 </div>
 
+
+<div class="content-section" markdown="1">
+
+## Diversity
+
+Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities, people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
+
+In addition, we will book travel and accommodation for you, so that you can arrive without stress :)
+
+We will open up the application process soon. Follow [@RubyUnconfEU](https://twitter.com/RubyUnconfEU) on twitter or check back here regularly for announcements.
+
+</div>
 
 <div class="content-section content-section--whitebg" markdown="1">
 <p class="sponsor__list">
