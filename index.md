@@ -35,13 +35,13 @@ Give a talk, get inspired, code together, talk to people.
 
 <a class="ticket" href="https://ti.to/ruby-unconf/2018">
 <div class="ticket__name">regular<br /></div>
-<div class="ticket__description">50% diversity support</div>
+<div class="ticket__description">50% diversity support ❤️</div>
 <div class="ticket__price">95,50€</div>
 </a>
 
 <a class="ticket" href="https://ti.to/ruby-unconf/2018">
 <div class="ticket__name">regular</div>
-<div class="ticket__description">100% diversity support</div>
+<div class="ticket__description">100% diversity support ❤️❤️</div>
 <div class="ticket__price">130,00€</div>
 </a>
 </div>
@@ -56,11 +56,13 @@ Early bird tickets and diversity support tickets are <a href="https://ti.to/ruby
 
 ## Diversity
 
-Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities, people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
+Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
 
 In addition, we will book travel and accommodation for you, so that you can arrive without stress :)
 
-We will open up the application process soon. Follow [@RubyUnconfEU](https://twitter.com/RubyUnconfEU) on twitter or check back here regularly for announcements.
+Applications must be submitted by 18th of March (Thats 2018-03-18 for y'all cyborgs). Applicants will be notified by March 25th.
+
+<div style="text-align: center;"><a href="https://goo.gl/forms/ewh8BYQHkyhtALc43" class="btn btn-primary">❤️ Apply for scholarship ❤️</a></div>
 
 </div>
 
@@ -89,7 +91,7 @@ What exactly is an Unconference? It works like this: Everybody can propose a tal
 
 Do you want to propose a talk? Or are interested in a topic you want to hear about? Add your [Ideas to the list](https://contriboot.herokuapp.com).
 
-<div style="text-align: center"><a href="https://contriboot.herokuapp.com" class="btn btn-primary">Add your Idea</a></div>
+<div style="text-align: center"><a href="https://contriboot.herokuapp.com" class="btn btn-primary">💡 Add your Idea 💡</a></div>
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
@@ -101,6 +103,31 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
   <div class="sponsor__text">Gold Sponsors </div>
 
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+</div>
+
+<div class="content-section content-section--purplebg" markdown="1">
+## Venue
+
+We're hosted by the [University of applied Sciences, Faculty of Design, Media and Information](https://www.haw-hamburg.de/english/about-us/faculties-departments/design-media-information.html).
+
+<p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.3635298564614!2d10.031139751899804!3d53.56912837992829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18ec9ad80408b%3A0x65298bd196908e49!2sHAW+Hamburg+-+Fakult%C3%A4t+DMI!5e0!3m2!1sde!2suk!4v1518718024833" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+### Getting there
+
+The easiest way to get there is by walking 500m from the U-Bahn (Underground) station "Mundsburg", which is about a 7 Minute ride away from the central station ("Hauptbahnhof").
+
+It's probably not a good idea to try to go by car, as parking space is very limited and even on a saturday, we can't really recommend driving in Hamburgs inner city.
+
+If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to Barmbek and the the U-Bahn to Mundsburg.
+
+### Surroundings
+
+The Venue is right next to the Eilbekkanal, a channel that runs directly to the Alster lake ("Aussenalster") which is probably a 30 minute walk.
+
+Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls which includes a cinema (if you don't like partying on saturday night, for example) - Be warned though, all movies there are probably shown in german.
+
 </div>
 
 <div class="content-section" markdown="1">
@@ -115,7 +142,7 @@ Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{s
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
     <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
-    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.svg"></a>
+    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
     <a class="sponsor__logo" href="https://www.railslove.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/railslove.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
