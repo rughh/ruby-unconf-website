@@ -47,7 +47,9 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 </div>
 
-Early bird tickets and diversity support tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>. Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases.
+<s>Early bird</s> Regular tickets and diversity support tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>.
+
+<!-- Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases. -->
 
 </div>
 
@@ -124,7 +126,7 @@ If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to 
 
 ### Surroundings
 
-The Venue is right next to the Eilbekkanal, a channel that runs directly to the Alster lake ("Aussenalster") which is probably a 30 minute walk.
+The Venue is right next to the Eilbekkanal, a channel that runs directly to the Alster lake ("Aussenalster") which is probably a 30 minute walk but especially worth it on a sunny spring day.
 
 Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls which includes a cinema (if you don't like partying on saturday night, for example) - Be warned though, all movies there are probably shown in german.
 
