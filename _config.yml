@@ -17,6 +17,7 @@ title: Ruby Unconf Hamburg 2018
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby Unconf 2018 takes place at the 5th and 6th of May 2018 in Hamburg, Germany.
+keywords: ruby, unconf, conference, developers, hamburg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rubyunconfeu
