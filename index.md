@@ -135,9 +135,9 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
 <div class="content-section" markdown="1">
 ## Hamburg
 
-If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here.
+Getting to Hamburg is easy - the Wikivoyage travel guide sums up everything you need to know about getting to and getting around Hamburg, finding a place to stay or even moving here: [Wikivoyage - Hamburg](https://en.wikivoyage.org/wiki/Hamburg)
 
-Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
+If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here. Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
