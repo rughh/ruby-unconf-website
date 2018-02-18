@@ -2,9 +2,9 @@
 
 ## Dev Setup
 
-- clone
+- git clone
 - bundle install
-- jekyll serve
+- bundle exec jekyll serve
 
 ## Rules
 

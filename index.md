@@ -47,7 +47,8 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 </div>
 
-<s>Early bird</s> Regular tickets and diversity support tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>.
+Tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>! The batch of early bird tickets is already sold out.
+
 
 <!-- Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases. -->
 
