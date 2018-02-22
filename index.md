@@ -22,9 +22,9 @@ Give a talk, get inspired, code together, talk to people.
 <div class="tickets">
 <div class="tickets__list">
 <a class="ticket" href="https://ti.to/ruby-unconf/2018">
-  <div class="ticket__name">early bird</div>
-  <div class="ticket__description">limited</div>
-  <div class="ticket__price">45,00€</div>
+  <div class="ticket__name"><s>early bird</s></div>
+  <div class="ticket__description">sold out</div>
+  <div class="ticket__price"><s>45,00€</s></div>
 </a>
 
 <a class="ticket" href="https://ti.to/ruby-unconf/2018">
@@ -47,8 +47,11 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 </div>
 
-Tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>! The batch of early bird tickets is already sold out.
+Tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>.
 
+If you are a university student or still go to school, or you're doing an apprenticeship ("Azubi") or anything similar (Put differently: We're using the broad english definition of "student") **and you cannot afford** the regular prices, we can offer you a [heavily discounted student ticket](https://ti.to/ruby-unconf/2018/with/jqzr4wop-am).
+
+<em>You should be able to provide some form of proof of your student status, like a student id, or a letter of enrollment, or anything, really, during check in at the venue. If you are in doubt, feel free to [ask us via Email](mailto:info@rubyunconf.eu?subject=[Student+Tickets]).</em>
 
 <!-- Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases. -->
 
