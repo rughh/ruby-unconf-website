@@ -167,7 +167,8 @@ any questions, remarks or ideas.
 
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
-  <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
+    <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
+    <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.png"></a>
   </div>
   <div class="sponsor__text">Bronze Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
