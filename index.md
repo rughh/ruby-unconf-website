@@ -108,7 +108,9 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
   </div>
   <div class="sponsor__text">Gold Sponsors </div>
 
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
+  <div class="sponsor__text" markdown="1">
+  [More about our sponsors!]({{site.baseurl}}{% link sponsors.md %})
+  </div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
