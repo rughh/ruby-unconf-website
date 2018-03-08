@@ -41,6 +41,15 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
   </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
+  </p>
+
+## Party Sponsor
+
+<p class="sponsor__description" markdown="1">
+  <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+</p>
 
 </div>
 
@@ -61,6 +70,13 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.railslove.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/railslove.svg"></a>
   </p>
+
+  <p class="sponsor__description" markdown="1">
+  <a class="sponsor__logo" href="https://www.shopify.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/shopify.svg"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+  <a class="sponsor__logo" href="https://9elements.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/9elements.svg"></a>
+  </p>
 </div>
 
 <div class="content-section" markdown="1">
@@ -71,5 +87,11 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img style="padding: 8px; background: white" src="assets/images/sponsors/megorei.png"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://depfu.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/depfu.png"></a>
   </p>
 </div>

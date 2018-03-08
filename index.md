@@ -105,12 +105,20 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
     <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
     <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
     <a class="sponsor__logo" href="http://www.epages.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/epages-logo.svg" style="height:55px;"></a>
+    <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
   </div>
   <div class="sponsor__text">Gold Sponsors </div>
-
   <div class="sponsor__text" markdown="1">
   [More about our sponsors!]({{site.baseurl}}{% link sponsors.md %})
   </div>
+
+</div>
+<div class="content-section" markdown="1">
+
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+  </div>
+  <div class="sponsor__text">Party Sponsor</div>
 </div>
 
 <div class="content-section content-section--purplebg" markdown="1">
@@ -152,6 +160,8 @@ If you are the first time in Hamburg we have some tipps for getting around here 
     <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
     <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
     <a class="sponsor__logo" href="https://www.railslove.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/railslove.svg"></a>
+    <a class="sponsor__logo" href="https://www.shopify.com/" target="_blank" style="width: 250px; margin-left: 2em;"><img src="assets/images/sponsors/shopify.svg"></a>
+    <a class="sponsor__logo" href="https://9elements.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/9elements.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
@@ -171,6 +181,8 @@ any questions, remarks or ideas.
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
     <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.png"></a>
+    <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
+    <a class="sponsor__logo" href="https://depfu.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/depfu.png"></a>
   </div>
   <div class="sponsor__text">Bronze Sponsors </div>
   <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
