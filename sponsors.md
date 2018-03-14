@@ -18,6 +18,8 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 ## Platinum Sponsor
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
+    <br/>
+    sum.cumo helps lottery and insurance companies prepare their business model for the digital age. Backed by years of industry experience and a service offering tailored to digitalisation, we are able to produce quick, simple and efficient solutions for our customers - from corporations to innovative start-ups. sum.cumo is not only a partner for modern technical solutions and marketing opportunities, but also helps establish a holistic, digital company philosophy that factors in new and existing potential in companies and the rapidly-changing market. Our Specialists in Strategy, Consulting, Communication and Technology at our offices in Zurich and Hamburg look forward to expanding on the success of their Customers and executing new, innovative projects, perhaps for your company as well.
   </p>
 
 </div>
@@ -35,20 +37,64 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
   </p>
 
   <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+    <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
+    <br />
+    We are developing an open environment for demand responsive transport, which is closely integrated into public transport and guarantees seamless customer mobility. From identifying useful regions and areas for operation, through providing the back-end to our user-friendly apps – we enable our partners to benefit from modern DRT solutions by seamlessly integrating ioki into already existing services. At the same time, we are prepared for the future:
+
+    Autonomous driving is an integral part of our mobility solution and we are constantly upgrading and improving our platform. This is how we make mobility accessible for everyone – anywhere, at any time.
   </p>
 
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
-  </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
   </p>
 
+</div>
+
+<div class="content-section content-section--whitebg" markdown="1">
+
+## Organization Sponsor
+
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="http://www.toptranslation.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/toptranslation.svg" style="height:70px;"></a>
+  </p>
+
+</div>
+
+
+<div class="content-section" markdown="1">
 ## Party Sponsor
 
 <p class="sponsor__description" markdown="1">
-  <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+  <a class="sponsor__logo" href="https://www.solarisbank.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+  <br />
+  solarisBank is the first banking platform with a full banking license which enables
+  companies to offer their own financial products. Through APIs, partners gain access
+  to solarisBank’s modular services including payments and e-money, lending, digital
+  banking as well as services provided by integrated third party providers. Through
+  this, solarisBank creates a highly developed technological banking ecosystem for
+  fintechs, established digital companies, as well as banks and corporates.
+</p>
+
+</div>
+
+<div class="content-section content-section--whitebg" markdown="1">
+
+## Coffee Sponsor
+
+<p class="sponsor__description" markdown="1">
+  <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
+</p>
+
+</div>
+
+<div class="content-section" markdown="1">
+
+## Keynote Sponsor
+
+<p class="sponsor__description" markdown="1">
+  <a class="sponsor__logo" href="https://www.xing.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/xing.svg" style="height:55px;"></a>
+  <br />
+  XING is the social network for business contacts. XING has 10.5 million users in its core German-speaking market. XING is a platform where professionals from all kinds of different industries can meet up, find jobs, colleagues, new assignments, cooperation partners, experts, generate business ideas and discover the latest industry topics. Members can meet and exchange views in over 74,000 specialist groups, while also getting together at networking events. The platform is operated by XING AG.
 </p>
 
 </div>
@@ -61,10 +107,6 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://phraseapp.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/parrotandlogo.png"></a>
-  </p>
-
-  <p class="sponsor__description" markdown="1">
-    <a class="sponsor__logo" href="https://www.akra.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/akra.gif"></a>
   </p>
 
   <p class="sponsor__description" markdown="1">
