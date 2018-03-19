@@ -116,7 +116,7 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
 <div class="content-section" markdown="1">
 
   <div class="sponsor__list">
-    <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+    <a class="sponsor__logo" href="https://www.solarisbank.com/de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
   </div>
   <div class="sponsor__text">Party Sponsor</div>
 </div>
