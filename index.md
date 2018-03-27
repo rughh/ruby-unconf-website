@@ -173,6 +173,8 @@ If you are the first time in Hamburg we have some tipps for getting around here 
 Please contact our team at <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a> if you have
 any questions, remarks or ideas.
 
+<img src="assets/images/team.jpg" style="width:75%">
+
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
