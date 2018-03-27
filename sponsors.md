@@ -134,6 +134,12 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
     <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
   </p>
   <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://travis-ci.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/travis.png"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://depfu.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/depfu.png"></a>
+  </p>
+  <p class="sponsor__description" markdown="1">
+    <a class="sponsor__logo" href="https://www.penseo.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/penseo.svg"></a>
   </p>
 </div>
