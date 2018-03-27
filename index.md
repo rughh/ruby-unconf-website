@@ -180,7 +180,7 @@ any questions, remarks or ideas.
 <div class="content-section content-section--whitebg" markdown="1">
   <div class="sponsor__list">
     <a class="sponsor__logo" href="https://ubilabs.net/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/ubilabs.svg"></a>
-    <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.png"></a>
+    <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.svg"></a>
     <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
     <a class="sponsor__logo" href="https://depfu.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/depfu.png"></a>
   </div>
