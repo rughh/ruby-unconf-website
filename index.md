@@ -1,6 +1,6 @@
 ---
 layout: 'default'
-title: 'Hello'
+title: 'Ruby Unconf Hamburg 2018'
 ---
 <div class="content-section content-section--whitebg" markdown="1">
 
@@ -122,7 +122,7 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
 <div class="content-section content-section--purplebg" markdown="1">
 ## Venue
 
-We're hosted by the [University of applied Sciences, Faculty of Design, Media and Information](https://www.haw-hamburg.de/english/about-us/faculties-departments/design-media-information.html).
+We're hosted by the [Hamburg University of Applied Sciences, Faculty of Design, Media and Information](https://www.haw-hamburg.de/english/about-us/faculties-departments/design-media-information.html).
 
 <p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2369.3635298564614!2d10.031139751899804!3d53.56912837992829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18ec9ad80408b%3A0x65298bd196908e49!2sHAW+Hamburg+-+Fakult%C3%A4t+DMI!5e0!3m2!1sde!2suk!4v1518718024833" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
