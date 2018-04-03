@@ -46,6 +46,8 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
+    <br />
+    Avocadostore is Germany's biggest online marketplace for sustainable products. Founded in 2010 and written in ruby on rails, today more than 600 green labels, designers and retailers are selling more than 150.000 products via avocadostore. As everything is about sustainability, all products have to match one of our ten sustainabiltiy criteria, such as "vegan", "cradle to cradle", "fair & social" and "recycling/upcycling" just to name the most common four. Avocadostore is growing fast, as are our ideas for features and ways to work in the future - not only regarding sustainability, but also technology!
   </p>
 
 </div>
