@@ -133,7 +133,7 @@ The easiest way to get there is by walking 500m from the U-Bahn (Underground) st
 
 It's probably not a good idea to try to go by car, as parking space is very limited and even on a saturday, we can't really recommend driving in Hamburgs inner city.
 
-If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to Barmbek and the the U-Bahn to Mundsburg.
+If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to Barmbek and then the U-Bahn to Mundsburg.
 
 ### Surroundings
 
