@@ -357,3 +357,13 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.schedules-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 800px;
+  font-size: 0.9rem;
+}
