@@ -105,6 +105,8 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 ## Silver Sponsors
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.wlw.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/wlw.svg" style="height:100px;"></a>
+    <br />
+    “Wer liefert was” is the leading online B2B marketplace in Germany, Austria and Switzerland. Being the most-visited website for professional purchases wlw provides millions of products and services in the B2B section. About 570,000 suppliers, producers, distributors and service providers get in touch with 1.3 million genuine buyers every month on <a href="https://wlw.de" target="_blank">wlw.de</a>, <a href="https://wlw.at" target="_blank">wlw.at</a> and <a href="https://wlw.ch" target="_blank">wlw.ch</a>. The precise and easy search provides buyers with reliable information on companies and their product portfolios – including current contact data and pricing – every month. The range of wlw services is free of charge for buyers and as a basic profile for advertisers.“Wer liefert was” has its headquarters in Hamburg and 250 employees. The company was founded in 1932 and was the first publisher of printed reference material for commercial buyers. Since 1995 wlw has been offering its services online.
   </p>
 
   <p class="sponsor__description" markdown="1">
