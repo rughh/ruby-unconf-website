@@ -131,6 +131,8 @@ We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vl
 
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.megorei.com/de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/megorei.svg"></a>
+    <br />
+    megorei is our software shop doing strategy consulting and development. We like to do the exciting new stuff as much as we like to help fighting the fire on existing projects. megorei is 100% developer driven and we ride our company as a business operating system. We play in different markets and have done a lot since computer networks bubbled up.
   </p>
   <p class="sponsor__description" markdown="1">
     <a class="sponsor__logo" href="https://www.opensuse.org/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/opensuse.svg"></a>
