@@ -64,11 +64,8 @@ If you are a university student or still go to school, or you're doing an appren
 
 Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
 
-In addition, we will book travel and accommodation for you, so that you can arrive without stress :)
+Applications must be submitted before 18th of March (Thats 2018-03-18 for y'all cyborgs).
 
-Applications must be submitted by 18th of March (Thats 2018-03-18 for y'all cyborgs). Applicants will be notified by March 25th.
-
-<div style="text-align: center;"><a href="https://goo.gl/forms/ewh8BYQHkyhtALc43" class="btn btn-primary">❤️ Apply for scholarship ❤️</a></div>
 
 </div>
 
@@ -94,6 +91,8 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 ## Unconf you say?
 
 What exactly is an Unconference? It works like this: Everybody can propose a talk. Everybody votes for the talks they want to see. The most voted talks will be held. You decide what will happen!
+
+**Read more: <a href="https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9">What is an Unconference</a>**
 
 Do you want to propose a talk? Or are interested in a topic you want to hear about? Add your [Ideas to the list](https://contriboot.herokuapp.com).
 
@@ -134,7 +133,7 @@ The easiest way to get there is by walking 500m from the U-Bahn (Underground) st
 
 It's probably not a good idea to try to go by car, as parking space is very limited and even on a saturday, we can't really recommend driving in Hamburgs inner city.
 
-If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to Barmbek and the the U-Bahn to Mundsburg.
+If you are arriving from Hamburg Airport, you should take the S-Bahn (Metro) to Barmbek and then the U-Bahn to Mundsburg.
 
 ### Surroundings
 
