@@ -281,7 +281,7 @@ a {
     th,
     td {
       padding: 0.5rem 1rem;
-      border: 1px solid $table-border-color;
+      border: 0px solid $table-border-color;
     }
   }
 
@@ -365,5 +365,19 @@ a {
   align-items: flex-start;
   justify-content: space-between;
   max-width: 800px;
-  font-size: 0.9rem;
+  margin: 0 auto;
+}
+
+.schedule {
+  font-size: 0.9em;
+
+
+}
+
+.schedule table tr {
+  border-bottom: 1px solid $table-border-color;
+
+  td {
+    padding: 0.5rem 1rem 0.5rem 0rem;
+  }
 }

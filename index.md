@@ -26,7 +26,7 @@ Give a talk, get inspired, code together, talk to people.
 <td>Registration &amp; Breakfast</td>
 </tr>
 <tr>
-<td class="schedule__time">09:30 - 9:45</td>
+<td class="schedule__time">09:30 - 09:45</td>
 <td>Welcome</td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ Give a talk, get inspired, code together, talk to people.
 </tr>
 <tr>
 <td class="schedule__time">11:15 - 11:45</td>
-<td>Keynote (to be announced)</td>
+<td>Keynote by <a href="http://tenderlovemaking.com/">@tenderlove</a></td>
 </tr>
 <tr>
 <td class="schedule__time">12:00 - 12:30</td>
@@ -74,7 +74,7 @@ Give a talk, get inspired, code together, talk to people.
 <td>Family photo</td>
 </tr>
 <tr>
-<td class="schedule__time">20:00 -</td>
+<td class="schedule__time">20:00</td>
 <td>Party at <a href="https://goo.gl/maps/KU24FWDEfsD2">Bidges & Sons (Rooftop Bar)</a>
 </td>
 </tr>
