@@ -183,8 +183,7 @@ If you are a university student or still go to school, or you're doing an appren
 
 Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
 
-Applications must be submitted before 18th of March (Thats 2018-03-18 for y'all cyborgs).
-
+Applications are now closed and we're looking forward to welcoming our scholarship recipients at Ruby Unconf 2018.
 
 </div>
 
@@ -203,6 +202,13 @@ Applications must be submitted before 18th of March (Thats 2018-03-18 for y'all 
 The heart of the Ruby Unconference is people. [This guideline](https://berlincodeofconduct.org/) is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
 
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
+
+
+### Violations / Care team
+
+In case you feel in any way uncomfortable or threatened during the conference or you see a violation to the code of conduct happening, we'll have a permanent care team in place that you can approach and that also can be reached by [email (care@rubyunconf.eu)](mailto:care@rubyunconf.eu) and by phone (We'll add the number here a couple of days before the event).
+
+You can also find preliminary contact data on [the Berlin Code of Conduct website](http://berlincodeofconduct.org/#supporters--ruby_unconference_hamburg).
 
 </div>
 <div class="content-section" markdown="1">
