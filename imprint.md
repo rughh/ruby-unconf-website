@@ -18,9 +18,8 @@ Irina Lindt, Jan Krutisch, Jan Zaydowitcz, Paul Mölders, Peter Schröder, Stefa
 The Ruby Unconf is organized by the BOOT e.V.
 
 BOOT - Best Of Open Technologies e.V.<br>
-Eingang 11<br>
-Stresemannstrasse 375<br>
-22761 Hamburg<br>
+Ritterstraße 3a<br>
+22089 Hamburg<br>
 Deutschland<br>
 
 E-Mail: <a href="mailto:info@rubyunconf.eu">info@rubyunconf.eu</a><br>
