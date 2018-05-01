@@ -6,7 +6,7 @@ title: 'Ruby Unconf Hamburg 2018'
 
 ## Let's meet and talk about Ruby
 
-Ruby Unconf Hamburg 2018 will happen on 5th and 6th of May 2018.
+Ruby Unconf Hamburg 2018 will happen on 5th and 6th of May 2018 at the HAW Hamburg, DMI Campus Finkenau.
 
 You decide on the topics, talks and speakers. This is your conference. <br />
 Give a talk, get inspired, code together, talk to people.
@@ -206,9 +206,11 @@ Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
 
 ### Violations / Care team
 
-In case you feel in any way uncomfortable or threatened during the conference or you see a violation to the code of conduct happening, we'll have a permanent care team in place that you can approach and that also can be reached by [email (care@rubyunconf.eu)](mailto:care@rubyunconf.eu) and by phone (We'll add the number here a couple of days before the event).
+In case you feel in any way uncomfortable or threatened during the conference or you see a violation to the code of conduct happening, we'll have a permanent care team in place that you can approach and that also can be reached by:
 
-You can also find preliminary contact data on [the Berlin Code of Conduct website](http://berlincodeofconduct.org/#supporters--ruby_unconference_hamburg).
+- [email (care@rubyunconf.eu)](mailto:care@rubyunconf.eu)
+- [phone (+49-176-98717841)](tel:+4917698717841) (Will only be monitored from Saturday the 5th to Sunday the 6th)
+- [Anonymous form submission](/code-of-conduct-form.html)
 
 </div>
 <div class="content-section" markdown="1">
