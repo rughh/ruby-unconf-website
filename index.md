@@ -14,6 +14,14 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 <div class="content-section content-section--whitebg" markdown="1">
 
+## Schedule
+
+### Live schedule: **[Ruby Unconf Schedule](https://docs.google.com/spreadsheets/d/1SH3ujYbBMPPICPZTqR6A2vVUGvAnBAv5ZqdzWBKSOn4/edit#gid=0)**
+
+
+</div>
+<div class="content-section" markdown="1">
+
 ## Agenda
 
 <div class="schedules-container">
