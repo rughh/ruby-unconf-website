@@ -46,15 +46,15 @@ Give a talk, get inspired, code together, talk to people.
 <td>Keynote by <a href="http://tenderlovemaking.com/">@tenderlove</a></td>
 </tr>
 <tr>
-<td class="schedule__time">12:00 - 12:30</td>
+<td class="schedule__time">12:15 - 12:45</td>
 <td>Talk F1 | Talk H1</td>
 </tr>
 <tr>
-<td class="schedule__time">12:45 - 13:15</td>
+<td class="schedule__time">13:00 - 13:30</td>
 <td>Talk F2 | Talk H2</td>
 </tr>
 <tr>
-<td class="schedule__time">13:15 - 14:30</td>
+<td class="schedule__time">13:30 - 14:30</td>
 <td>Lunch</td>
 </tr>
 <tr>
