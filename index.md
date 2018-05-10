@@ -22,6 +22,47 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 <div class="content-section" markdown="1">
 
+## Slides
+
+<div class="schedules-container">
+<div class="schedule">
+<table>
+<tbody>
+<tr>
+<td><h3>Presenter</h3></td>
+<td><h3>Title</h3></td>
+<td></td>
+</tr>
+<tr>
+<td>Christoph</td>
+<td>A MP3 player for very small, small and big kids</td>
+<td><a href="/uploads/Norbert.pdf">Download</a></td>
+</tr>
+<tr>
+<td>Ana Maria Martinez Gomez</td>
+<td>Open Source</td>
+<td><a href="/uploads/OpenSource-Ana-UNCONF-HAMBURG.odp">Download</a></td>
+</tr>
+<tr>
+<td>Ana Maria Martinez Gomez</td>
+<td>Property Testing</td>
+<td><a href="/uploads/PropertyTests-Ana-UNCONF-HAMBURG.odp">Download</a></td>
+</tr>
+<tr>
+<td>Darius Murawski</td>
+<td>Seeding in a microservice architecture</td>
+<td><a href="/uploads/Seeding_in_a_microservice_architecture.pdf">Download</a></td>
+</tr>
+<tr>
+<td>Amr Abdelwahab</td>
+<td>The question of privilege</td>
+<td><a href="https://prezi.com/view/QB1AL4r0uwEZ1tuqsf5v/">Link - prezi.com</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
 ## Agenda
 
 <div class="schedules-container">
@@ -140,7 +181,6 @@ Give a talk, get inspired, code together, talk to people.
 
 </div>
 <div class="content-section content-section--purplebg" markdown="1">
-
 
 ## Tickets
 
