@@ -2,22 +2,34 @@
 layout: 'default'
 title: 'Ruby Unconf Hamburg 2018'
 ---
+
 <div class="content-section content-section--whitebg" markdown="1">
 
-## Let's meet and talk about Ruby
+## Thanks for an awesome event!
 
-Ruby Unconf Hamburg 2018 will happen on 5th and 6th of May 2018 at the HAW Hamburg, DMI Campus Finkenau.
+Ruby Unconf Hamburg 2018 happened on 5th and 6th of May 2018 at the HAW Hamburg, DMI Campus Finkenau.
 
-You decide on the topics, talks and speakers. This is your conference. <br />
-Give a talk, get inspired, code together, talk to people.
+200 participants, 20 talks, 8 lightning talks and 1 workshop, all given by community members.<br />
+It was a blast to host such a nice conference.
+
+</div>
+<div class="content-section content-section--purplebg" markdown="1">
+
+## Videos & Photos
+
+The recordings of the talks are available on Youtube: [Ruby Unconf Youtube Channel](https://www.youtube.com/channel/UCpdY3gEqGW10EVrUbd1itug/videos)
+and some photos can be found in this shared album: [Ruby Unconf Photos](https://photos.app.goo.gl/HdBumSnrTeCxo6N57).
+
+### Family Photo
+
+<img src='https://lh3.googleusercontent.com/n4xMai045Dd5mhbMKteHG30SBljmrolwWKhqUcgXC6a7ubVzHrqiVzEN1pVyVH3qgJqVGPgtrh22v-jKz6hkf5aEPpl0FeIJuLaHz8MYT1UhA2WK1G_NIpzWuY4n6T4wCdKQrARKbA=w1200' />
 
 </div>
 <div class="content-section content-section--whitebg" markdown="1">
 
 ## Schedule
 
-### Live schedule: **[Ruby Unconf Schedule](https://docs.google.com/spreadsheets/d/1SH3ujYbBMPPICPZTqR6A2vVUGvAnBAv5ZqdzWBKSOn4/edit#gid=0)**
-
+### Talks and schedule: **[Ruby Unconf Schedule](https://docs.google.com/spreadsheets/d/1SH3ujYbBMPPICPZTqR6A2vVUGvAnBAv5ZqdzWBKSOn4/edit#gid=0)**
 
 </div>
 <div class="content-section" markdown="1">
@@ -66,75 +78,11 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 <div class="content-section content-section--purplebg" markdown="1">
 
-## Tickets
-
-### with all tickets you gain access to both conference days as well as free food, drinks and entry to the party.
-
-<div class="tickets">
-<div class="tickets__list">
-<a class="ticket" href="https://ti.to/ruby-unconf/2018">
-  <div class="ticket__name"><s>early bird</s></div>
-  <div class="ticket__description">sold out</div>
-  <div class="ticket__price"><s>45,00€</s></div>
-</a>
-
-<a class="ticket" href="https://ti.to/ruby-unconf/2018">
-<div class="ticket__name">regular</div>
-  <div class="ticket__description"></div>
-<div class="ticket__price">65,00€</div>
-</a>
-
-<a class="ticket" href="https://ti.to/ruby-unconf/2018">
-<div class="ticket__name">regular<br /></div>
-<div class="ticket__description">50% diversity support ❤️</div>
-<div class="ticket__price">95,50€</div>
-</a>
-
-<a class="ticket" href="https://ti.to/ruby-unconf/2018">
-<div class="ticket__name">regular</div>
-<div class="ticket__description">100% diversity support ❤️❤️</div>
-<div class="ticket__price">130,00€</div>
-</a>
-</div>
-</div>
-
-Tickets are <a href="https://ti.to/ruby-unconf/2018">now available</a>.
-
-If you are a university student or still go to school, or you're doing an apprenticeship ("Azubi") or anything similar (Put differently: We're using the broad english definition of "student") **and you cannot afford** the regular prices, we can offer you a [heavily discounted student ticket](https://ti.to/ruby-unconf/2018/with/jqzr4wop-am).
-
-<em>You should be able to provide some form of proof of your student status, like a student id, or a letter of enrollment, or anything, really, during check in at the venue. If you are in doubt, feel free to [ask us via Email](mailto:info@rubyunconf.eu?subject=[Student+Tickets]).</em>
-
-<!-- Follow <a href="https://twitter.com/RubyUnconfEU">RubyUnconfEU</a> on twitter to get notified on the next ticket batch releases. -->
-
-</div>
-
-
-<div class="content-section" markdown="1">
-
-## Diversity
-
-Our scholarship program is meant to make Ruby Unconf a better unconference. We want to make this community-focused event accessible to the wide range of people who are learning, work with, or are Ruby enthusiasts. We welcome applicants from underrepresented groups in tech to apply. This includes, but is not limited to: women-identifying persons, people of color, LGBTQIA people, people with physical and mental disabilities and people facing economic and/or political hardships. Scholarship recipients will receive a Ruby Unconf Hamburg 2018 ticket.
-
-Applications are now closed and we're looking forward to welcoming our scholarship recipients at Ruby Unconf 2018.
-
-</div>
-
-<div class="content-section content-section--whitebg" markdown="1">
-<p class="sponsor__list">
-  <a class="sponsor__logo" href="https://www.sumcumo.com/" target="_blank"><img src="assets/images/sponsors/sumcumo.svg"></a>
-  <div class="sponsor__text">Platinum Sponsor</div>
-</p>
-
-</div>
-
-<div class="content-section" markdown="1">
-
 ## Code Of Conduct
 
 The heart of the Ruby Unconference is people. [This guideline](https://berlincodeofconduct.org/) is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
 
 Read the full [Berlin Code of Conduct here](https://berlincodeofconduct.org/).
-
 
 ### Violations / Care team
 
@@ -153,9 +101,6 @@ What exactly is an Unconference? It works like this: Everybody can propose a tal
 
 **Read more: <a href="https://gist.github.com/robertkowalski/8b21484c517c54d9b80aeba1d43864c9">What is an Unconference</a>**
 
-Do you want to propose a talk? Or are interested in a topic you want to hear about? Add your [Ideas to the list](https://contriboot.herokuapp.com).
-
-<div style="text-align: center"><a href="https://contriboot.herokuapp.com" class="btn btn-primary">💡 Add your Idea 💡</a></div>
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
@@ -165,15 +110,6 @@ Do you want to propose a talk? Or are interested in a topic you want to hear abo
     <a class="sponsor__logo" href="http://www.ioki.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/ioki.png" style="height:60px;"></a>
     <a class="sponsor__logo" href="http://www.epages.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/epages-logo.svg" style="height:55px;margin-top:22px"></a>
     <a class="sponsor__logo" href="https://www.avocadostore.de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/avocadostore.svg" style="height:55px;"></a>
-  </div>
-</div>
-<div class="content-section" markdown="1">
-  <div class="sponsor__list">
-    <a class="sponsor__logo" href="https://www.solarisbank.com/de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
-    <a class="sponsor__logo" href="https://www.xing.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/xing.svg" style="height:55px;"></a>
-  </div>
-  <div class="sponsor__text" markdown="1">
-  [More about our sponsors!]({{site.baseurl}}{% link sponsors.md %})
   </div>
 </div>
 
@@ -202,12 +138,23 @@ Next to the train station "Mundsburg" is one of Hamburgs largest shopping malls 
 
 </div>
 
+<div class="content-section content-section--purplebg" markdown="1">
+  <div class="sponsor__list">
+    <a class="sponsor__logo" href="https://www.solarisbank.com/de/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/solarisbank.png" style="height:55px;"></a>
+    <a class="sponsor__logo" href="https://www.xing.com/" target="_blank" style="height:100px;"><img src="assets/images/sponsors/xing.svg" style="height:55px;"></a>
+  </div>
+  <div class="sponsor__text" markdown="1">
+  [More about our sponsors!]({{site.baseurl}}{% link sponsors.md %})
+  </div>
+</div>
+
 <div class="content-section" markdown="1">
 ## Hamburg
 
 Getting to Hamburg is easy - the Wikivoyage travel guide sums up everything you need to know about getting to and getting around Hamburg, finding a place to stay or even moving here: [Wikivoyage - Hamburg](https://en.wikivoyage.org/wiki/Hamburg)
 
 If you are the first time in Hamburg we have some tipps for getting around here and what you should probably visit while being here. Having some days left before or after Ruby Unconf? [Hamburg is beautiful <3]({{site.baseurl}}{% link sightseeing.md %})
+
 </div>
 
 <div class="content-section content-section--whitebg" markdown="1">
@@ -220,9 +167,7 @@ If you are the first time in Hamburg we have some tipps for getting around here 
     <a class="sponsor__logo" href="https://9elements.com/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/9elements.svg"></a>
   </div>
   <div class="sponsor__text">Silver Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
-
 
 <div class="content-section" markdown="1">
 
@@ -245,5 +190,4 @@ any questions, remarks or ideas.
     <a class="sponsor__logo" href="https://www.penseo.de/" target="_blank" style="width: 250px;"><img src="assets/images/sponsors/penseo.svg"></a>
   </div>
   <div class="sponsor__text">Bronze Sponsors </div>
-  <div class="sponsor__text">We are looking for more <a href="https://docs.google.com/document/d/1XvPizMM25vlZZWJpHCoMVsBfEngxdr18Y-8i6IPM1JA/edit#" target="_blank">sponsors</a>!</div>
 </div>
