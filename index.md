@@ -22,116 +22,41 @@ Give a talk, get inspired, code together, talk to people.
 </div>
 <div class="content-section" markdown="1">
 
-## Agenda
+## Slides
 
 <div class="schedules-container">
 <div class="schedule">
-<h3>Saturday</h3>
 <table>
 <tbody>
 <tr>
-<td class="schedule__time">08:30 - 09:30</td>
-<td>Registration &amp; Breakfast</td>
+<td><h3>Presenter</h3></td>
+<td><h3>Title</h3></td>
+<td></td>
 </tr>
 <tr>
-<td class="schedule__time">09:30 - 09:45</td>
-<td>Welcome</td>
+<td>Christoph</td>
+<td>A MP3 player for very small, small and big kids</td>
+<td><a href="/uploads/Norbert.pdf">Download</a></td>
 </tr>
 <tr>
-<td class="schedule__time">09:45 - 11:00</td>
-<td>Proposals &amp; Voting</td>
+<td>Ana Maria Martinez Gomez</td>
+<td>Open Source</td>
+<td><a href="/uploads/OpenSource-Ana-UNCONF-HAMBURG.odp">Download</a></td>
 </tr>
 <tr>
-<td class="schedule__time">11:15 - 11:45</td>
-<td>Keynote by <a href="http://tenderlovemaking.com/">@tenderlove</a></td>
+<td>Ana Maria Martinez Gomez</td>
+<td>Property Testing</td>
+<td><a href="/uploads/PropertyTests-Ana-UNCONF-HAMBURG.odp">Download</a></td>
 </tr>
 <tr>
-<td class="schedule__time">12:15 - 12:45</td>
-<td>Talk F1 | Talk H1</td>
+<td>Darius Murawski</td>
+<td>Seeding in a microservice architecture</td>
+<td><a href="/uploads/Seeding_in_a_microservice_architecture.pdf">Download</a></td>
 </tr>
 <tr>
-<td class="schedule__time">13:00 - 13:30</td>
-<td>Talk F2 | Talk H2</td>
-</tr>
-<tr>
-<td class="schedule__time">13:30 - 14:30</td>
-<td>Lunch</td>
-</tr>
-<tr>
-<td class="schedule__time">14:30 - 15:00</td>
-<td>Talk F3 | Talk H3</td>
-</tr>
-<tr>
-<td class="schedule__time">15:15 - 15:45</td>
-<td>Talk F4 | Talk H4</td>
-</tr>
-<tr>
-<td class="schedule__time">15:45 - 16:30</td>
-<td>Coffee &amp; Cake</td>
-</tr>
-<tr>
-<td class="schedule__time">16:30 - 17:00</td>
-<td>Talk F5 | Talk H5</td>
-</tr>
-<tr>
-<td class="schedule__time">17:15 - 17:45</td>
-<td>Talk F6 | Talk H6</td>
-</tr>
-<tr>
-<td class="schedule__time">17:45 - 18:00</td>
-<td>Family photo</td>
-</tr>
-<tr>
-<td class="schedule__time">20:00</td>
-<td>Party at <a href="https://goo.gl/maps/KU24FWDEfsD2">Bidges & Sons (Rooftop Bar)</a>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="schedule">
-<h3>Sunday</h3>
-<table>
-<tbody>
-<tr>
-<td class="schedule__time">09:00 - 10:00</td>
-<td>Registration &amp; Breakfast</td>
-</tr>
-<tr>
-<td class="schedule__time">10:00 - 11:30</td>
-<td>Proposals &amp; Votings</td>
-</tr>
-<tr>
-<td class="schedule__time">11:30 - 12:00</td>
-<td>Talk F1 | Talk H1</td>
-</tr>
-<tr>
-<td class="schedule__time">12:15 - 12:45</td>
-<td>Talk F2 | Talk H2</td>
-</tr>
-<tr>
-<td class="schedule__time">12:45 - 13:45</td>
-<td>Lunch</td>
-</tr>
-<tr>
-<td class="schedule__time">13:45 - 14:15</td>
-<td>Talk F3 | Talk H3</td>
-</tr>
-<tr>
-<td class="schedule__time">14:30 - 15:00</td>
-<td>Talk F4 | Talk H4</td>
-</tr>
-<tr>
-<td class="schedule__time">15:00 - 15:30</td>
-<td>Coffee &amp; Cake</td>
-</tr>
-<tr>
-<td class="schedule__time">15:30 - 16:15</td>
-<td>Lightning Talks</td>
-</tr>
-<tr>
-<td class="schedule__time">16:15 - 16:30</td>
-<td>Closing</td>
+<td>Amr Abdelwahab</td>
+<td>The question of privilege</td>
+<td><a href="https://prezi.com/view/QB1AL4r0uwEZ1tuqsf5v/">Link - prezi.com</a></td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +65,6 @@ Give a talk, get inspired, code together, talk to people.
 
 </div>
 <div class="content-section content-section--purplebg" markdown="1">
-
 
 ## Tickets
 
